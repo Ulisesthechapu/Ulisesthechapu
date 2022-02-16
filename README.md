@@ -1,5 +1,9 @@
 # 👋 Hello, my name is Ulises
 
+### Software engineer
+
+[![Twitch Status](https://img.shields.io/twitch/status/ulisesthechapu?style=social)](https://twitch.com/ulisesthechapu)
+
 I dedicated myself to managing databases in SQL Server, and desktop app development in .net.
 
 In 2020 I started two apps in Xamarin forms.
