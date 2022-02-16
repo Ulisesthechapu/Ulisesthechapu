@@ -9,9 +9,13 @@ I dedicated myself to managing databases in SQL Server, and desktop app developm
 In 2020 I started two apps in Xamarin forms and Api Rest.
 
 ## Skills:
+
 Visual Studio (Visual Basic and C#)
+
 SQL Server
+
 Crystal Reports
+
 Xamarin Forms
 
 
