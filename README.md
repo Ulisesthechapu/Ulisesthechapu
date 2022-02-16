@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ulises
+# 👋 Hello, my name is Ulises
 
 I dedicated myself to managing databases in SQL Server, and desktop app development in .net.
 
